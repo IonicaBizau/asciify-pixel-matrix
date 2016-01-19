@@ -1,0 +1,32 @@
+{
+  "name": "asciify-pixel-matrix",
+  "version": "1.0.0",
+  "description": "Asciifies a matrix of pixels.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "asciify-pixel": "^1.0.0",
+    "ul": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/asciify-pixel-matrix.git"
+  },
+  "keywords": [
+    "asciify",
+    "pixel",
+    "matrix"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/asciify-pixel-matrix/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/asciify-pixel-matrix#readme"
+}
