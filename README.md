@@ -62,6 +62,15 @@ console.log(asciify([
 #### Return
 - **Matrix|String** The result matrix.
 
+### `stringifyAll(input)`
+Stringifies the matrix.
+
+#### Params
+- **Matrix** `input`: A matrix of pixels returned by the `asciify-pixel` package.
+
+#### Return
+- **String** The stringified matrix.
+
 ### `stringify(input)`
 Stringifies the input pixels.
 
@@ -93,7 +102,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2014#license-mit
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2016#license-mit
 [website]: http://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
