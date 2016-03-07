@@ -62,7 +62,7 @@ console.log(asciify([
 #### Return
 - **Matrix|String** The result matrix.
 
-### `stringifyAll(input)`
+### `stringifyMatrix(input)`
 Stringifies the matrix.
 
 #### Params
