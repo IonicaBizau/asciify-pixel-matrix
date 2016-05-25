@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel-matrix",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Asciifies a matrix of pixels.",
   "main": "lib/index.js",
   "directories": {
@@ -37,6 +37,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
