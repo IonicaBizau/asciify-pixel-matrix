@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel-matrix",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Asciifies a matrix of pixels.",
   "main": "lib/index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "pixel",
     "matrix"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/asciify-pixel-matrix/issues"
@@ -33,12 +33,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
