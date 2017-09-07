@@ -5,6 +5,7 @@ You can see below the API reference of this module.
 ### `asciifyMatrix(pixels, options)`
 
 #### Params
+
 - **Matrix** `pixels`: The pixels matrix (array of arrays of pixel objects).
 - **Object** `options`: An object to pass to `asciify-pixel` extended with the following fields:
  - `stringify` (Boolean): If `false`, the pixel objects will not be stringified.
@@ -17,6 +18,7 @@ You can see below the API reference of this module.
 Stringifies the matrix.
 
 #### Params
+
 - **Matrix** `input`: A matrix of pixels returned by the `asciify-pixel` package.
 
 #### Return
@@ -26,6 +28,7 @@ Stringifies the matrix.
 Stringifies the input pixels.
 
 #### Params
+
 - **Matrix** `input`: A matrix of pixels returned by the `asciify-pixel` package.
 
 #### Return
@@ -35,6 +38,7 @@ Stringifies the input pixels.
 Joins the matrix characters.
 
 #### Params
+
 - **Matrix** `input`: A matrix of characters (the stringified pixel objects).
 
 #### Return
