@@ -65,7 +65,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -141,9 +143,10 @@ Thanks! :heart:
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
- - [`bronos`](https://github.com/kswilster/bronos#readme) (by Keith Williams)—A sonos cli for bros
+ - [`bronos`](https://npmjs.com/package/bronos) (by Keith Williams)—A sonos cli for bros
  - [`bundle-buddy-webpack-plugin`](https://npmjs.com/package/bundle-buddy-webpack-plugin) (by Sean Larkin)—[![npm](https://badge.fury.io/js/bundle-buddy-webpack-plugin.svg)](https://badge.fury.io/js/bundle-buddy-webpack-plugin) [![dependencies](https://david-dm.org/TheLarkInn/bundle-buddy-webpack-plugin.svg)](https://david-dm.org/thelarkinn/bundle-buddy-webpac
  - [`image-to-ascii`](https://github.com/IonicaBizau/image-to-ascii)—A Node.JS module that converts images to ASCII art.
+ - [`jimthedev-bundle-buddy-webpack-plugin`](https://npmjs.com/package/jimthedev-bundle-buddy-webpack-plugin) (by Sean Larkin)—[![npm](https://badge.fury.io/js/bundle-buddy-webpack-plugin.svg)](https://badge.fury.io/js/bundle-buddy-webpack-plugin) [![dependencies](https://david-dm.org/TheLarkInn/bundle-buddy-webpack-plugin.svg)](https://david-dm.org/thelarkinn/bundle-buddy-webpac
 
 ## :scroll: License
 
