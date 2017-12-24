@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save asciify-pixel-matrix
+# Using npm
+npm install --save asciify-pixel-matrix
+
+# Using yarn
+yarn add asciify-pixel-matrix
 ```
 
 
